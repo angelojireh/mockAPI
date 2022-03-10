@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "myFavoriteBillerID": 123,
-    "dueDate": "March 27, 2022",
-    "isActive": true,
-    "daysBeforeTrigger": "3 days",
+    "my_favorite_biller_id": 123,
+    "due_date": "March 27, 2022",
+    "is_active": true,
+    "days_before_trigger": "3 days",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/600px-Qatar_Airways_Logo.svg.png",
-    "billerName": "Qatar Airways",
-    "isDueToday": false,
-    "isNotYetPaid": false
+    "biller_name": "Qatar Airways",
+    "is_due_today": false,
+    "is_not_paid": false
   },
   {
     "id": 2,
-    "myFavoriteBillerID": 456,
-    "dueDate": "April 17, 2022",
-    "isActive": true,
-    "daysBeforeTrigger": "1 day",
+    "my_favorite_biller_id": 456,
+    "due_date": "April 17, 2022",
+    "is_active": true,
+    "days_before_trigger": "1 day",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Delta_logo.svg/540px-Delta_logo.svg.png",
-    "billerName": "Delta Airlines",
-    "isDueToday": false,
-    "isNotYetPaid": false
+    "biller_name": "Delta Airlines",
+    "is_due_today": false,
+    "is_not_paid": false
   },
   {
     "id": 3,
-    "myFavoriteBillerID": 789,
-    "dueDate": "June 07, 2022",
-    "isActive": false,
-    "daysBeforeTrigger": "1 day",
+    "my_favorite_biller_id": 789,
+    "due_date": "June 07, 2022",
+    "is_active": false,
+    "days_before_trigger": "1 day",
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Cathay_Pacific_logo.svg/600px-Cathay_Pacific_logo.svg.png",
-    "billerName": "Cathay Pacific",
-    "isDueToday": false,
-    "isNotYetPaid": false
+    "biller_name": "Cathay Pacific",
+    "is_due_today": false,
+    "is_not_paid": false
   }
 ]

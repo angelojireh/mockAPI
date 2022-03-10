@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "myFavoriteBillerID": 123,
+    "dueDate": "March 27, 2022",
+    "isActive": true,
+    "daysBeforeTrigger": "3 days",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9b/Qatar_Airways_Logo.svg/600px-Qatar_Airways_Logo.svg.png",
+    "billerName": "Qatar Airways",
+    "isDueToday": false,
+    "isNotYetPaid": false
+  },
+  {
+    "id": 2,
+    "myFavoriteBillerID": 456,
+    "dueDate": "April 17, 2022",
+    "isActive": true,
+    "daysBeforeTrigger": "1 day",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Delta_logo.svg/540px-Delta_logo.svg.png",
+    "billerName": "Delta Airlines",
+    "isDueToday": false,
+    "isNotYetPaid": false
+  },
+  {
+    "id": 3,
+    "myFavoriteBillerID": 789,
+    "dueDate": "June 07, 2022",
+    "isActive": false,
+    "daysBeforeTrigger": "1 day",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Cathay_Pacific_logo.svg/600px-Cathay_Pacific_logo.svg.png",
+    "billerName": "Cathay Pacific",
+    "isDueToday": false,
+    "isNotYetPaid": false
+  }
+]
